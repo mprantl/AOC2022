@@ -1,2 +1,2 @@
 # AOC2022
- Advent of Code in Rust
+ Advent of Code 2022 in Rust :christmas_tree:
