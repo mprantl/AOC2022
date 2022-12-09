@@ -5,6 +5,7 @@ fn main() {
     find_unique_slice(contents.clone(), 14);
 }
 fn find_unique_slice(contents: Vec<char>, window_size: usize) {
+    let now = std::time::Instant::now();
     let iter = contents.windows(window_size);
     for i in iter.enumerate() {
         let (window, index) = (i.1, i.0);
@@ -14,6 +15,7 @@ fn find_unique_slice(contents: Vec<char>, window_size: usize) {
                 window,
                 index + window_size
             );
+            println!("Execution time: {:?}", now.elapsed());
             break;
         }
     }

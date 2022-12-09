@@ -1,0 +1,23 @@
+$ cd /
+$ ls
+dir ddpgzpc
+dir mqjrd
+dir mrqjg
+dir rglgbsq
+298050 tjmjp.cqm
+dir wlqhpwqv
+$ cd ddpgzpc
+$ ls
+290515 cvrd.hcf
+dir mlm
+122034 rrtnthnt.zgs
+12680 tvnrl
+49534 vljqzqg
+dir zffbmlbd
+18557 zfhnw.jfd
+$ cd mlm
+$ ls
+102897 zfhnw.zpd
+$ cd ..
+$ cd zffbmlbd
+$ ls
