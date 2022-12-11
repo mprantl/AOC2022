@@ -81,8 +81,6 @@ fn read_input() -> Vec<String> {
     }
     input
 }
-
-//Function that takes a Root and a Vec<String> and add nodes based on the vector
 fn build_dir_tree(input: Vec<String>) {
     for line in input.iter() {
         let mut line_iter = line.split_whitespace();
